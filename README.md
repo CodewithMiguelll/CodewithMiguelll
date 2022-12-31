@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m interested in becoming a Front-End Web Developmer and Software Engineer.
-- 🌱 I’m currently learning CSS and JavaScript
+- 👀 I’m a Front-End Web Developmer and Software Engineer intrested in building and designing web applications.
+- 🌱 I’m currently learning CSS and JavaScript.
 - 📫 Here's how to reach me 👉🏾 https://twtter.com/CodeWithMiguel
  
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m a Front-End Web Developmer and Software Engineer intrested in building and designing web applications.
-- 🌱 I’m currently learning CSS and JavaScript.
-- 📫 Here's how to reach me 👉🏾 https://twtter.com/CodeWithMiguel
+- 👀 I’m a Front-End Web Developmer and Software Engineer intrested in building,designing and bringing web applications to life.
+- 🌱 I’m currently learning Python and JavaScript.
+- 📫 Don't be a stranger, I would love to hear from you. Here's how to reach me 👉🏾 https://twitter.com/CodeWithMiguel
  
 <!---
 CodewithMiguelll/CodewithMiguelll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

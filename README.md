@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m a Front-End Web Developmer and Software Engineer intrested in building,designing and bringing web applications to life.
 - 🌱 I’m currently learning Python and JavaScript.
+- 👨🏽‍💻 When I'm not brainstorming new ideas and projects that'd change the world, you'd catch me reading a book or a comic, listening to music or watching a movie. 😊❤️
 - 📫 Don't be a stranger, I would love to hear from you. Here's how to reach me 👉🏾 https://twitter.com/CodeWithMiguel
  
 <!---

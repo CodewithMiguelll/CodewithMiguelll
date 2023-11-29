@@ -18,7 +18,7 @@ Welcome to my GitHub playground! I'm Miguel, a passionate software engineer and 
 - ![Igbo](https://img.shields.io/badge/Igbo-Native-green)
 - ![French](https://img.shields.io/badge/French-Fluent-blue)
 - ![Spanish](https://img.shields.io/badge/Spanish-Fluent-yellow)
-- ![English](https://img.shields.io/badge/Englishsh-Fluent-red)
+- ![English](https://img.shields.io/badge/English-Fluent-red)
 
   **🔧Technologies and Tools I use**
   - ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow&color=blue)

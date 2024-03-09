@@ -6,7 +6,7 @@
 
 ## 👋 Hello, World!
 
-Welcome to my GitHub playground! I'm Miguel, a passionate software engineer and UI/UX designer who enjoys solving complex problems through collaboration, tinkering with code, and exploring the vast world of technology. I'm committed to continuous skill enhancement and to striving for a competitive edge by delivering unique and creative solutions. 🚀
+Welcome to my GitHub playground! I'm Miguel, a passionate software engineer and Product designer who enjoys solving complex problems through collaboration, tinkering with code, and exploring the vast world of technology. I'm committed to continuous skill enhancement and to striving for a competitive edge by delivering unique and creative solutions. 🚀
 
 ### 🌱 What I'm currently working on:
 
@@ -18,6 +18,7 @@ Welcome to my GitHub playground! I'm Miguel, a passionate software engineer and 
 - ![Igbo](https://img.shields.io/badge/Igbo-Native-green)
 - ![French](https://img.shields.io/badge/French-Fluent-blue)
 - ![Spanish](https://img.shields.io/badge/Spanish-Fluent-yellow)
+- ![Italian](https://img.shields.io/badge/Spanish-Fluent-white)
 - ![English](https://img.shields.io/badge/English-Fluent-red)
 
   **🔧Technologies and Tools I use**
@@ -43,6 +44,5 @@ Welcome to my GitHub playground! I'm Miguel, a passionate software engineer and 
 - 📖 I love reading in my free time.
 - 🎧 I'm a big fan of music.
 - 🚴 I love cycling.
-- 🕺 I'm a dancer.
 
 Thanks for dropping by! Feel free to explore my repositories, and let's connect to collaborate on some exciting projects! 🌟

@@ -13,6 +13,9 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 ## My Articles
 - [Latest Trends In Front-End Development in 2024](https://www.linkedin.com/pulse/latest-trends-front-end-development-chikaima-uwakwe-vtklf/)
+- [The Fascinating Origin Of The Word "Algorithm"](https://www.linkedin.com/pulse/fascinating-origin-word-algorithm-chikaima-uwakwe-0gt2f/?trackingId=nkLnEImWVBVQ%2FY2saBAzeQ%3D%3D)
+- [Latest Trends In Product Design](https://www.linkedin.com/pulse/latest-trends-product-design-shaping-future-chikaima-uwakwe-lsbaf/?trackingId=eg5iWel4TfuQOdnM3SDw2Q%3D%3D)
+- [5 Essential Qualities Of A Great Front-end Engineer](https://www.linkedin.com/pulse/5-essential-qualities-great-frontend-engineer-chikaima-uwakwe-dacxf/?trackingId=YHaZ6UTcTcSfY1ek8DVUGw%3D%3D)
 
 
 ## Tech Stack

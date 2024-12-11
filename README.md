@@ -39,8 +39,8 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
  
 ## 👨🏽‍💻 I'm currently working on
 
-[![E-commerce website](https://img.shields.io/badge/E--commerce_website-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/coffeely.git)
-<p>I'm working on an exciting new e-commerce website project focused on selling coffee. The user-friendly platform will offer a variety of coffee products with seamless navigation, responsive design, detailed product descriptions, and smooth animations. Click the badge above to check out the code and follow the progress.<p></p>
+[![Portfolio website](https://img.shields.io/badge/E--commerce_website-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/trifecta.git)
+<p>I'm working on my portfolio website to showcase my work and discuss future projects. Click the badge above to check out the code and follow the progress.<p></p>
 
 
 

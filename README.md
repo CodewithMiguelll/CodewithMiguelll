@@ -48,8 +48,8 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 ## ⚡ Fun fact:
 
-- 📚 I love learning languages, I can currently speak French, Italian and a little bit of German.
-- 💥 When I'm not brainstorming my next big daring idea, I read comics, and write poetry.
+- 📚 I love learning languages, I can currently speak French, Italian and Spanish.
+- 💥 When I'm not brainstorming my next big daring idea, I read comics and write poetry.
 - 🚴🏽‍♂️ I love biking.
 
 <!-- ## 🏆 Achievements -->

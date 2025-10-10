@@ -9,7 +9,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 <a href="https://app.daily.dev/develo"><img src="https://api.daily.dev/devcards/v2/qheD6QHQpAL9EmUm7912o.png?r=f0w" width="356" alt="Miguel's Dev Card"/></a>
 
-- 🔭 I'm currently developing my portfolio website, where I will be displaying my works and forthcoming projects.
+- 🔭 I'm currently developing my creative agency, where I will be displaying my works and forthcoming projects.
 - 💡 I love collaborating with other developers on open-source projects, gaining new and valuable ideas and meeting new people.
 - ✍🏽 I write articles sharing new insights and trends on front-end development and product design on LinkedIn.
 

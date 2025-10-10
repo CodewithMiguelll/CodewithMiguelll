@@ -26,21 +26,21 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Front-end Web Development
-  - 🌐 Exploring the ins and outs of ReactJS for dynamic front-end experiences.
-  - 🔍 Navigating through the world of React Router for seamless page transitions.
+  - 🌐 Exploring the ins and outs of Next.js for dynamic front-end experiences.
+  - 🔍 Navigating through the world of React Bits for seamless interactive animations.
   - 🎨 Styling with Tailwind CSS to create modern and responsive user interfaces.
  
 - 🖼️ Learning Product Design
     - 📖 Gaining a fundamental knowledge on the principles of Graphics design and its tools.
-    - 🎨 Learning the basics of 3D modelling with Blender for excellent 3D designs.
-    - 💻 Improving my UI/UX skills with Figma for creating seamless UI designs.
+    - 🎨 Learning the basics of 3D modelling with Blender and Spline for excellent 3D designs.
+    - 💻 Improving my UI/UX skills with Figma for creating superb UI designs.
  
 
  
 ## 👨🏽‍💻 I'm currently working on
 
-[![Portfolio website](https://img.shields.io/badge/Freelance--Agency-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/Northlight-Creative.git)
-<p>I'm working on my portfolio website to showcase my work and discuss future projects. Click the badge above to check out the code and follow the progress.<p></p>
+[![Portfolio website](https://img.shields.io/badge/Creative--Agency-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/Northlight-Creative-Studios.git)
+<p>I'm working on my creative agency to showcase my work and discuss future projects. Click the badge above to check out the code and follow the progress.<p></p>
 
 
 
@@ -49,7 +49,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 ## ⚡ Fun fact:
 
 - 📚 I love learning languages, I can currently speak French, Italian and Spanish.
-- 💥 When I'm not brainstorming my next big daring idea, I read comics and write poetry.
+- 💥 When I'm not brainstorming my next big daring idea, I read comics and write pieces of fiction (poetry, screenplays, etc).
 - 🚴🏽‍♂️ I love biking.
 
 <!-- ## 🏆 Achievements -->

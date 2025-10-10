@@ -21,7 +21,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vscode,figma,git,github,blender,linkedin,gmail&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vscode,figma,git,github,blender,linkedin,gmail&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

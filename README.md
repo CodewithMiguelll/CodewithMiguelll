@@ -59,7 +59,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 ## 📬 Get in Touch
 
 - Connect with me on [Instagram](https://instagram.com/_big.migz)
-- Read more of my articles on [LinkedIn](https://https://www.linkedin.com/in/chikaima-uwakwe/)
+- Read more of my articles on [LinkedIn](https://www.linkedin.com/in/chikaima-uwakwe/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 

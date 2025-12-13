@@ -9,7 +9,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 <a href="https://app.daily.dev/develo"><img src="https://api.daily.dev/devcards/v2/qheD6QHQpAL9EmUm7912o.png?r=f0w" width="356" alt="Miguel's Dev Card"/></a>
 
-- 🔭 I'm currently developing a flight tracking website where users can view, book, and learn more about multiple locations.
+- 🔭 I'm currently developing a productivity app where users do nothing, my idea of attaining stillness amidst the busyness of everyday life.
 - 💡 I love collaborating with other developers on open-source projects, gaining new and valuable ideas and meeting new people.
 - ✍🏽 I write articles sharing new insights and trends on front-end development and product design on LinkedIn.
 
@@ -21,7 +21,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vscode,figma,git,github,blender,linkedin,gmail&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vscode,figma,git,github,blender,linkedin,devto,npm,gmail&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -39,7 +39,7 @@ I am a passionate Front-end Web Developer and Product Designer, driven by a curi
  
 ## 👨🏽‍💻 I'm currently working on
 
-[![Flight Tracking Website](https://img.shields.io/badge/Flight--Tracking--Website-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/flyte.git)
+[![Productivity Web App](https://img.shields.io/badge/Productivity--Web--App-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/do-nothing.git)
 <p>I'm currently developing a flight tracking website where users can view, book, and learn more about multiple locations.<p></p>
 
 

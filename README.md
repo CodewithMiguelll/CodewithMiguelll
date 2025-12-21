@@ -1,4 +1,4 @@
-# Hi, I'm Miguel! 👋
+# Hi, I'm Chikaima! 👋
 
 I am a passionate Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. My journey involves delving into the world of creating interactive and attractive user experiences, exploring new ideas, and sharing my insights with the community and the world at large.
 

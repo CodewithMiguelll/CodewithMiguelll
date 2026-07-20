@@ -1,6 +1,6 @@
 # ¡Hola a todos! Me llamo Chikaima. 👋
 
-I am a Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. My journey involves delving into the world of creating interactive and attractive user experiences, exploring new ideas, and sharing my insights with the community and the world at large.
+I am a Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. I create interactive, engaging user experiences, explore new ideas, and share my insights with the community and the world.
 
 [![Chikaima's GitHub stats](https://github-stats-extended.vercel.app/api?username=CodeWithMiguelll)](https://github.com/stats-organization/github-stats-extended)
 
@@ -39,7 +39,7 @@ I am a Front-end Web Developer and Product Designer, driven by a curiosity for t
  
 ## 👨🏽‍💻 I'm currently working on
 
-[![A platform for Nierian Creatives](https://img.shields.io/badge/Productivity--Web--App-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/cre8r.git)
+[![A platform for Nierian Creatives](https://img.shields.io/badge/Platform--For--Creatives-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/cre8r.git)
 <p>I'm currently developing a digital platform for Nigerian creatives where they can share and market their works, and connect with fellow artisans.<p></p>
 
 

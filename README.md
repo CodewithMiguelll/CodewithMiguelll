@@ -1,4 +1,4 @@
-# Hi, I'm Chikaima! 👋
+# ¡Hola a todos! Me llamo Chikaima. 👋
 
 I am a Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. My journey involves delving into the world of creating interactive and attractive user experiences, exploring new ideas, and sharing my insights with the community and the world at large.
 
@@ -31,7 +31,7 @@ I am a Front-end Web Developer and Product Designer, driven by a curiosity for t
   - 🎨 Styling with Tailwind CSS to create modern and responsive user interfaces.
  
 - 🖼️ Learning Product Design
-    - 📖 Gaining a fundamental knowledge of the principles of graphic design and its tools.
+    - 📖 Gaining fundamental knowledge of the principles of graphic design and its tools.
     - 🎨 Learning the basics of 3D modelling with Blender and Spline for excellent 3D designs.
     - 💻 Improving my UI/UX skills with Figma for creating superb UI designs.
  
@@ -39,8 +39,8 @@ I am a Front-end Web Developer and Product Designer, driven by a curiosity for t
  
 ## 👨🏽‍💻 I'm currently working on
 
-[![Productivity Web App](https://img.shields.io/badge/Productivity--Web--App-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/do-nothing.git)
-<p>I'm currently developing a flight tracking website where users can view, book, and learn more about multiple locations.<p></p>
+[![A platform for Nierian Creatives](https://img.shields.io/badge/Productivity--Web--App-In_Progress-4c1?style=for-the-badge)](https://github.com/CodeWithMiguelll/cre8r.git)
+<p>I'm currently developing a digital platform for Nigerian creatives where they can share and market their works, and connect with fellow artisans.<p></p>
 
 
 
@@ -48,8 +48,8 @@ I am a Front-end Web Developer and Product Designer, driven by a curiosity for t
 
 ## ⚡ Fun fact:
 
-- 📚 I love learning languages, I can currently speak French, Italian and Spanish.
-- 💥 When I'm not brainstorming my next big daring idea, I read comics and write pieces of fiction (poetry, screenplays, etc).
+- 📚 I love learning languages; I can currently speak French, Italian, and Spanish.
+- 💥 When I'm not brainstorming my next big daring idea, I read comics and write pieces of fiction (poetry, prose, screenplays, etc).
 - 🚴🏽‍♂️ I love biking.
 
 <!-- ## 🏆 Achievements -->

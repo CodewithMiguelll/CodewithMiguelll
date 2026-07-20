@@ -1,8 +1,8 @@
 # Hi, I'm Chikaima! 👋
 
-I am a passionate Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. My journey involves delving into the world of creating interactive and attractive user experiences, exploring new ideas, and sharing my insights with the community and the world at large.
+I am a Front-end Web Developer and Product Designer, driven by a curiosity for technology and a passion for expressing my creative ideas. My journey involves delving into the world of creating interactive and attractive user experiences, exploring new ideas, and sharing my insights with the community and the world at large.
 
-![CodeWithMiguelll's Stats](https://github-readme-stats.vercel.app/api?username=CodeWithMiguelll&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Chikaima's GitHub stats](https://github-stats-extended.vercel.app/api?username=CodeWithMiguelll)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## 🚀 About Me
